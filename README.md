@@ -38,3 +38,12 @@
 
 <a href="https://github.com/bughunter-99">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bughunter-99&&show_icons=true&title_color=00BFA6&icon_color=F9A826&text_color=000000&bg_color=ffffff" alt="bughunter's github stats"/></a>
+ 
+ 
+ 
+<div align="center">
+
+### Show some :sparkling_heart: by starring some of the repositories!
+
+</div>
+
