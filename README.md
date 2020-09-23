@@ -1,5 +1,7 @@
 ### Bonjour,I'm Sourav Kr. Ojha. :alien:
 
+<hr/>
+
 <a href="https://www.linkedin.com/in/sourav-kumar-ojha-82ba81195/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -30,4 +32,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>  
 
-![stats](https://github-readme-stats.vercel.app/api?username=bughunter-99&&show_icons=true&title_color=ffffff&icon_color=F50057&text_color=333333&bg_color=00B0FF)
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughunter-99&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bughunter-99&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/
