@@ -1,6 +1,5 @@
 # Bonjour,I'm Sourav Kr. Ojha. :alien:
 
-<hr/>
 
 <a href="https://www.linkedin.com/in/sourav-kumar-ojha-82ba81195/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
