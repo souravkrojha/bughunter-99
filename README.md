@@ -1,4 +1,4 @@
-# 'Ello, mate,I'm Sourav Kr. Ojha. :alien:
+# 'Ello, mate,I'm Sourav Kr. Ojha. :skull_and_crossbones:
 
 
 <a href="https://www.linkedin.com/in/sourav-kumar-ojha-82ba81195/">
